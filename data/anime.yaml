@@ -1,0 +1,6 @@
+train: ../anime/images/train
+val: ../anime/images/val
+
+nc: 1
+
+names: ['face']
