@@ -6,7 +6,7 @@ The training set used contains 5845 manually selected and annotated anime pictur
 Current model uses the configurations of yolov5x, a smaller and faster version based on yolov5s is still in progress.
 
 ## Requirements
-Python 3.8 or later with all requirements.txt dependencies installed.
+Python 3.8 or later with all [requirements.txt](https://github.com/zymk9/yolov5_anime/blob/master/requirements.txt) dependencies installed.
 
 ## Usage
 1. Clone the repository and run install requirements. **Beware that the weights and models provided here may be only compatible to the [yolov5 2.0 release](https://github.com/ultralytics/yolov5/releases/tag/v2.0).**
