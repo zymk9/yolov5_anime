@@ -10,6 +10,8 @@ Python 3.8 or later with all [requirements.txt](https://github.com/zymk9/yolov5_
 
 ## Usage
 1. Clone the repository and run install requirements. **Beware that the weights and models provided here may be only compatible to the [yolov5 2.0 release](https://github.com/ultralytics/yolov5/releases/tag/v2.0).**
+   
+   Update: the models are still compatible with [release 3.0](https://github.com/ultralytics/yolov5/releases/tag/v3.0) 
     ```bash
     $ git clone https://github.com/zymk9/yolov5_anime.git 
     $ cd yolov5
