@@ -14,7 +14,7 @@ Python 3.8 or later with all [requirements.txt](https://github.com/zymk9/yolov5_
    Update: the models are still compatible with [release 3.0](https://github.com/ultralytics/yolov5/releases/tag/v3.0) 
     ```bash
     $ git clone https://github.com/zymk9/yolov5_anime.git 
-    $ cd yolov5
+    $ cd yolov5_anime
     $ pip install -qr requirements.txt  # install dependencies
     ```
 2. Retrieve yolov5x weights from [Google Drive](https://drive.google.com/file/d/1-MO9RYPZxnBfpNiGY6GdsqCeQWYNxBdl/view?usp=sharing) or use the following code.
